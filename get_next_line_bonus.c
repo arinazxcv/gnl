@@ -89,9 +89,4 @@ int main()
 	printf("%s", get_next_line_bonus(fd3));
 	printf("%s", get_next_line_bonus(fd1));
 	printf("%s", get_next_line_bonus(fd2));
-	printf("%s", get_next_line_bonus(fd3));
-	printf("%s", get_next_line_bonus(fd1));
-	printf("%s", get_next_line_bonus(fd2));
-	printf("%s", get_next_line_bonus(fd3));
-
 }
